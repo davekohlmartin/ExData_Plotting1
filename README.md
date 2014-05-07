@@ -1,3 +1,13 @@
+#Programming Assignment 1
+Exploratory Data Analysis
+completed by:
+Dave Martin
+5/5/2014
+
+Instructor R.D. Peng
+
+the rest of this document is unmodified from its original fork
+
 ## Introduction
 
 This assignment uses data from
